@@ -24,6 +24,7 @@ Uptimerobot, betterstack sitelerden kayıt olup link ekleyerek 7/24 aktif tuttur
 Evet. Express paketi ile 7/24 aktif tutturma imkanı var. Uptime websitelerden eklerseniz, botunuz sorunsuz şekilde aktif tutturabilir. 
 
 Render'den başka hosting websitesi önerir misin?
+
 Evet. Tek alternatifi Glitch. Replit artık eskisi gibi aktif tutturma imkanı sunmuyor ve bot offline olma ihtimali çok yüksektir.
 
 
