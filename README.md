@@ -26,3 +26,4 @@ Evet. Express paketi ile 7/24 aktif tutturma imkanı var. Uptime websitelerden e
 Render'den başka hosting websitesi önerir misin?
 Evet. Tek alternatifi Glitch. Replit artık eskisi gibi aktif tutturma imkanı sunmuyor ve bot offline olma ihtimali çok yüksektir.
 
+© SametUPTİME. Tüm hakları saklıdır!
